@@ -48,10 +48,11 @@ To run this program, follow these steps:
 4. Open a terminal or command prompt.
 5. Navigate to the directory containing the program files.
 6. Execute the following command:
+   
    ```
    python main.py
    ```
-7. The program will display various outputs, including scatter plots, cost function plots, final parameter values, predictions, and the R^2 score for the testing set.
+8. The program will display various outputs, including scatter plots, cost function plots, final parameter values, predictions, and the R^2 score for the testing set.
 
 ## Customization
 
