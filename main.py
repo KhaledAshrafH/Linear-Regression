@@ -82,7 +82,6 @@ maxVal = max(y_data)
 for i in range(len(y_data)):
     y_data[i] = (y_data[i] - minVal) / (maxVal - minVal)
 
-
 # Split the dataset into training and testing sets (req2)
 x_train = x[0:160]
 y_train = y_data[0:160]
