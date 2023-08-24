@@ -1,4 +1,4 @@
-# Linear Regression
+# Linear Regression from Scratch in Python
 
 This program implements linear regression from scratch using the gradient descent algorithm in Python. It predicts car prices based on selected features and uses a dataset of cars with their respective prices.
 
